@@ -1,8 +1,4 @@
 # .gitignore
 node_modules/
 
-.github/
-
-.hintrc
-
 test.md
