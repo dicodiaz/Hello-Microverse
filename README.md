@@ -13,23 +13,42 @@ Set up the first project for Microverse. Learning Objectives:
 - Write a descriptive and easy to understand README in business English for every project submitted.
 - Demonstrate an ability to submit a project for code review.
 
+![screenshot](./app_screenshot.png)
+
 ## Built With
+
+- HTML/CSS
+- Node.js
 
 ## Live Demo
 
 ## Getting Started
 
+To get a local copy up and running follow these simple example steps.
+
 ### Prerequisites
+
+Any web browser will do.
 
 ### Setup
 
+Clone repo into your machine.
+
 ### Install
+
+N/A
 
 ### Usage
 
+Open index.html
+
 ### Run tests
 
+N/A
+
 ### Deployment
+
+N/A
 
 ## Authors
 
@@ -49,4 +68,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
+My learning partners and my stand-up team partners.
+
 ## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
