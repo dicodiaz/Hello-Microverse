@@ -25,6 +25,13 @@ Set up the first project for Microverse. Learning Objectives:
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
+- Clone repo into your machine. For this, I recommend the following steps:
+  - Open a terminal of your choice (e.g. VS Code integrated terminal).
+  - Select the destination folder (On windows, run cd "*Destination folder*")
+  - Run git clone https://github.com/dicodiaz/Hello-Microverse
+- Open the destination folder in your preferred file explorer.
+- Open folder "Hello-Microverse"
+- Open index.html
 
 ### Prerequisites
 
@@ -40,7 +47,7 @@ N/A
 
 ### Usage
 
-Open index.html
+N/A
 
 ### Run tests
 
